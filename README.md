@@ -15,3 +15,5 @@ $params = @{
 .\Add-AzureRmVm.ps1 @params
 
 ```
+
+The script also creates a public IP address and attaches it to the servers network interface.
